@@ -1,0 +1,14 @@
+.product-box {
+    background-color: #d34735;
+    height: 200px;
+    width: 500px;
+    margin: 15px;
+    display: flex;
+    justify-content: flex-start;
+    align-content: center;
+}
+.product-box > img {
+    height: 90%;
+    display: inline-block;
+
+}
