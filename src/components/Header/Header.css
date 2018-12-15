@@ -1,0 +1,18 @@
+#header {
+    margin-top: -20px;
+    background-color: #ab2a19;
+    font-family: 'Open Sans', sans-serif;
+    height: 100px;
+    display: flex;
+    align-items: center;
+}
+
+#header > h1 {
+    font-size: 30px;
+    font-weight: 700;
+    line-height: 30px;
+    text-decoration: none solid black;
+    text-transform: uppercase;
+    word-spacing: 0;
+    color: #fff;
+}
